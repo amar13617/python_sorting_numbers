@@ -1,0 +1,142 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-project1-dev-200605-authRole",
+      "UnauthRoleArn": "arn:aws:iam::410206236958:role/amplify-project1-dev-200605-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::410206236958:role/amplify-project1-dev-200605-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-project1-dev-200605-deployment",
+      "UnauthRoleName": "amplify-project1-dev-200605-unauthRole",
+      "StackName": "amplify-project1-dev-200605",
+      "StackId": "arn:aws:cloudformation:ap-south-1:410206236958:stack/amplify-project1-dev-200605/6453cae0-3cdf-11ed-8c0e-02d9f80bb3e4",
+      "AmplifyAppId": "dc106pefr1u9e"
+    },
+    "categories": {
+      "function": {
+        "Assignment7": {
+          "deploymentBucketName": "amplify-project1-dev-200605-deployment",
+          "s3Key": "amplify-builds/Assignment7-437a6a524b445675764b-build.zip"
+        },
+        "Assignment8": {
+          "deploymentBucketName": "amplify-project1-dev-200605-deployment",
+          "s3Key": "amplify-builds/Assignment8-536b48346e3379637a42-build.zip"
+        },
+        "Assignment9": {
+          "deploymentBucketName": "amplify-project1-dev-200605-deployment",
+          "s3Key": "amplify-builds/Assignment9-326e46576f316c734e75-build.zip"
+        },
+        "Assignment10": {
+          "deploymentBucketName": "amplify-project1-dev-200605-deployment",
+          "s3Key": "amplify-builds/Assignment10-396d5566755657395365-build.zip"
+        },
+        "Assignment11": {
+          "deploymentBucketName": "amplify-project1-dev-200605-deployment",
+          "s3Key": "amplify-builds/Assignment11-4e457249476753384564-build.zip"
+        },
+        "Assignment12": {
+          "deploymentBucketName": "amplify-project1-dev-200605-deployment",
+          "s3Key": "amplify-builds/Assignment12-444b3537744e47394142-build.zip"
+        },
+        "Assignment13": {
+          "deploymentBucketName": "amplify-project1-dev-200605-deployment",
+          "s3Key": "amplify-builds/Assignment13-446b5230487935716232-build.zip"
+        },
+        "Assignment14": {
+          "deploymentBucketName": "amplify-project1-dev-200605-deployment",
+          "s3Key": "amplify-builds/Assignment14-6c5a4a57413769664a74-build.zip"
+        },
+        "Assignment16": {
+          "deploymentBucketName": "amplify-project1-dev-200605-deployment",
+          "s3Key": "amplify-builds/Assignment16-6f6c654c624d67793644-build.zip"
+        },
+        "Assignment17": {
+          "deploymentBucketName": "amplify-project1-dev-200605-deployment",
+          "s3Key": "amplify-builds/Assignment17-5a37427334614e384b50-build.zip"
+        },
+        "Assignment20": {
+          "deploymentBucketName": "amplify-project1-dev-200605-deployment",
+          "s3Key": "amplify-builds/Assignment20-316d34324374414e4470-build.zip"
+        },
+        "Calculator": {
+          "deploymentBucketName": "amplify-project1-dev-200605-deployment",
+          "s3Key": "amplify-builds/Calculator-456142795a2f35666d57-build.zip"
+        },
+        "pythontest": {
+          "deploymentBucketName": "amplify-project1-dev-200605-deployment",
+          "s3Key": "amplify-builds/pythontest-4771343863614d584843-build.zip"
+        },
+        "pythonlist": {
+          "deploymentBucketName": "amplify-project1-dev-200605-deployment",
+          "s3Key": "amplify-builds/pythonlist-3336454d485058554f5a-build.zip"
+        },
+        "Pythonproject": {
+          "deploymentBucketName": "amplify-project1-dev-200605-deployment",
+          "s3Key": "amplify-builds/Pythonproject-4f55306f42687a6a736c-build.zip"
+        },
+        "pythonsort": {
+          "deploymentBucketName": "amplify-project1-dev-200605-deployment",
+          "s3Key": "amplify-builds/pythonsort-626c63764956305a4543-build.zip"
+        },
+        "practice": {
+          "deploymentBucketName": "amplify-project1-dev-200605-deployment",
+          "s3Key": "amplify-builds/practice-73676148504232654a68-build.zip"
+        }
+      },
+      "auth": {
+        "project18ea65266": {}
+      }
+    }
+  },
+  "dewjkd": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-project1-dewjkd-145822-authRole",
+      "UnauthRoleArn": "arn:aws:iam::410206236958:role/amplify-project1-dewjkd-145822-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::410206236958:role/amplify-project1-dewjkd-145822-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-project1-dewjkd-145822-deployment",
+      "UnauthRoleName": "amplify-project1-dewjkd-145822-unauthRole",
+      "StackName": "amplify-project1-dewjkd-145822",
+      "StackId": "arn:aws:cloudformation:ap-south-1:410206236958:stack/amplify-project1-dewjkd-145822/bc25a550-3e46-11ed-9677-02c48a6093b0",
+      "AmplifyAppId": "dc106pefr1u9e"
+    },
+    "categories": {
+      "auth": {
+        "project18ea65266": {}
+      },
+      "function": {
+        "Assignment7": {
+          "deploymentBucketName": "amplify-project1-dewjkd-145822-deployment",
+          "s3Key": "amplify-builds/Assignment7-437a6a524b445675764b-build.zip"
+        },
+        "Assignment8": {
+          "deploymentBucketName": "amplify-project1-dewjkd-145822-deployment",
+          "s3Key": "amplify-builds/Assignment8-536b48346e3379637a42-build.zip"
+        },
+        "Assignment9": {
+          "deploymentBucketName": "amplify-project1-dewjkd-145822-deployment",
+          "s3Key": "amplify-builds/Assignment9-36374f44506139464730-build.zip"
+        },
+        "Assignment10": {
+          "deploymentBucketName": "amplify-project1-dewjkd-145822-deployment",
+          "s3Key": "amplify-builds/Assignment10-396d5566755657395365-build.zip"
+        },
+        "Assignment11": {
+          "deploymentBucketName": "amplify-project1-dewjkd-145822-deployment",
+          "s3Key": "amplify-builds/Assignment11-4e457249476753384564-build.zip"
+        },
+        "Assignment12": {
+          "deploymentBucketName": "amplify-project1-dewjkd-145822-deployment",
+          "s3Key": "amplify-builds/Assignment12-444b3537744e47394142-build.zip"
+        },
+        "Assignment13": {
+          "deploymentBucketName": "amplify-project1-dewjkd-145822-deployment",
+          "s3Key": "amplify-builds/Assignment13-446b5230487935716232-build.zip"
+        },
+        "Assignment14": {
+          "deploymentBucketName": "amplify-project1-dewjkd-145822-deployment",
+          "s3Key": "amplify-builds/Assignment14-6c5a4a57413769664a74-build.zip"
+        }
+      }
+    }
+  }
+}
